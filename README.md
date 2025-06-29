@@ -7,13 +7,18 @@
 
 ---
 
-### 👨‍🎓 About Me
 
-- 🎓 I'm currently pursuing a **B.Sc. in Electronic Information Science**
-- 🧠 My interests include **AI**, **Computer Vision**, and **Game Development**
-- 💻 Most of my projects are about **image understanding**, **deep learning models**, and a bit of **fun with code**
-- 🕹️ I’m always curious about how technology powers modern games
+## ✨ About Me
 
+```python
+const redem-cat = {
+  currentlyWorking: "Electronic Information Science",
+  learning: ["AI","Machine Learning", "Computer Vision", "Game Development"],
+programmingLanguages: ["Python", "C/C++", "Golang", "Matlab"]
+  lookingForHelp: "How Technology Powers Modern Games✨",
+  reachMe: "1323746368@qq.com",
+};
+```
 ---
 
 ### 🔧 Technologies & Tools
@@ -24,7 +29,6 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ---
 
 ### 🏆 GitHub Trophies
