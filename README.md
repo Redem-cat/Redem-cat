@@ -69,7 +69,6 @@ programmingLanguages: ["Python", "C/C++", "Golang", "Matlab"]
 
 > “Stay hungry, stay foolish.” — Steve Jobs
 
----
 
 ### 🔗 Connect With Me
 
@@ -86,5 +85,5 @@ programmingLanguages: ["Python", "C/C++", "Golang", "Matlab"]
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:000044&height=100&section=footer&text=Welcome&animation=twinkling&fontColor=FFFFFF"/>
 </p>
