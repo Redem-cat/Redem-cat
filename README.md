@@ -27,12 +27,37 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Redem-cat&theme=gruvbox&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Redem-cat&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redem-cat&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Redem-cat&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Redem-cat's%20GitHub%20Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redem-cat&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter,Jupyter%20Notebook" height="170px" />
+</div>
+
+---
+
+### 🔥 GitHub Streak & Productivity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Redem-cat&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Redem-cat&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redem-cat&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -42,10 +67,17 @@
 
 ---
 
-### 📫 Contact Me
+### 🔗 Connect With Me
 
-- 📮 Email: *youremail@example.com* （你可以改成真实的）
-- 🌐 GitHub: [@Redem-cat](https://github.com/Redem-cat)
+<div align="center">
+  <a href="mailto:1323746368@qq.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Redem-cat">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add more social links here -->
+</div>
 
 ---
 
