@@ -1,7 +1,7 @@
 <div align="center">
   
-# 👋 Hi there 👋, I'm Redem-cat
-
+<h1 align="center">Hi there 👋, I'm Redem-cat</h1>
+<h3 align="center">A passionate EIS undergraduate who loves AI & Games 🎮</h3>
 
 
 <!--
