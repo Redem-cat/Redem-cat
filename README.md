@@ -3,7 +3,6 @@
 <h1 align="center">Hi there 👋, I'm Redem-cat</h1>
 <h3 align="center">A passionate EIS undergraduate who loves AI & Games 🎮</h3>
 
-
 <!--
 Python & C++ developer committed to crafting excellent software.
   <p>
@@ -12,13 +11,11 @@ Python & C++ developer committed to crafting excellent software.
     <a href="https://wakatime.com/@018e213e-b50d-4f78-bc57-c3899fcfa222"><img src="https://wakatime.com/badge/user/018e213e-b50d-4f78-bc57-c3899fcfa222.svg" alt="Wakatime" /></a>
   </p>
 -->
+
   <br/>
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I+love+Deep+Learning+🧠;I+play+with+Images+and+Code+🖼️;Let%27s+build+cool+stuff+together+🚀" />
-  
   <br/>
 </div>
-
 <br/>
     
 ## ✨ About Me
@@ -32,7 +29,7 @@ const redem-cat = {
   reachMe: "1323746368@qq.com",
 };
 ```
----
+
 
 ### 🔧 Technologies & Tools
 
@@ -42,6 +39,9 @@ const redem-cat = {
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ---
 
 ### 🏆 GitHub Trophies
@@ -50,7 +50,7 @@ const redem-cat = {
   <img src="https://github-profile-trophy.vercel.app/?username=Redem-cat&theme=gruvbox&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -59,7 +59,7 @@ const redem-cat = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redem-cat&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter,Jupyter%20Notebook" height="170px" />
 </div>
 
----
+
 
 ### 🔥 GitHub Streak & Productivity
 
@@ -68,7 +68,6 @@ const redem-cat = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Redem-cat&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </div>
 
----
 
 ### 📈 Activity Graph
 
@@ -76,7 +75,7 @@ const redem-cat = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Redem-cat&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
----
+
 
 ### 💬 Quote of the Day
 
@@ -95,7 +94,7 @@ const redem-cat = {
   <!-- Add more social links here -->
 </div>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:003366,100:000044&height=100&section=footer&text=Welcome&animation=twinkling&fontColor=FFFFFF"/>
