@@ -3,6 +3,20 @@
 <h1 align="center">Hi there 👋, I'm Redem-cat</h1>
 <h3 align="center">A passionate EIS undergraduate who loves AI & Games 🎮</h3>
 
+<!--
+Python & C++ developer committed to crafting excellent software.
+  <p>
+    <a href="https://github.com/grtsinry43"><img src="https://img.shields.io/github/followers/grtsinry43?label=Followers&style=social" alt="GitHub Followers" /></a>
+    <img src="https://komarev.com/ghpvc/?username=grtsinry43&color=blueviolet&style=flat-square" alt="Profile Views" />
+    <a href="https://wakatime.com/@018e213e-b50d-4f78-bc57-c3899fcfa222"><img src="https://wakatime.com/badge/user/018e213e-b50d-4f78-bc57-c3899fcfa222.svg" alt="Wakatime" /></a>
+  </p>
+-->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=I+love+Deep+Learning+🧠;I+play+with+Images+and+Code+🖼️;Let%27s+build+cool+stuffs+🚀" />
+</div>
+    
+## ✨ About Me
+
 ```js
 const redemCat = {
   currentlyStudying: "Electronic Information Science",
@@ -10,20 +24,6 @@ const redemCat = {
   languages: ["Python", "C/C++", "Go", "Matlab"],
   lookingFor: "Collaboration on cool AI & Game projects!",
   contact: "1323746368@qq.com",
-};
-```
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=I+love+Deep+Learning+🧠;I+play+with+Images+and+Code+🖼️;Let%27s+build+cool+stuffs+🚀" />
-</div>
-    
-## ✨ About Me
-
-```python
-const redem-cat = {
-  currentlyWorking: "Electronic Information Science",
-  learning: ["AI","Machine Learning", "Computer Vision", "Game Development"],
-  programmingLanguages: ["Python", "C/C++", "Golang", "Matlab"]
-  lookingForHelp: "How Technology Powers Modern Games✨",
-  reachMe: "1323746368@qq.com",
 };
 ```
 
