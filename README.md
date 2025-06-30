@@ -14,9 +14,8 @@ Python & C++ developer committed to crafting excellent software.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00c89e&center=true&vCenter=true&width=435&lines=I+love+Deep+Learning+🧠;I+play+with+Images+and+Code+🖼️;Let%27s+build+cool+stuffs+🚀" />
 </div>
-    
-## ✨ About Me
 
+## ✨ About Me
 ```js
 const redemCat = {
   currentlyStudying: "Electronic Information Science",
