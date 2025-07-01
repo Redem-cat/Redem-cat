@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1 align="center">Hi there 👋, I'm Redem-cat</h1>
+Hi there 👋, I'm Redem-cat
 <h3 align="center">A passionate EIS undergraduate who loves AI & Games 🎮</h3>
 
 <!--
