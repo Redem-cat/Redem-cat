@@ -44,7 +44,7 @@ const redemCat = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Redem-cat&theme=gruvbox&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://stable-github-profile-trophy.vercel.app/?username=Redem-cat&theme=gruvbox&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 
