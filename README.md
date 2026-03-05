@@ -56,8 +56,8 @@ const redemCat = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Redem-cat&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Redem-cat's%20GitHub%20Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redem-cat&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter,Jupyter%20Notebook" height="170px" />
+    <img src="https://github-readme-stats-3o0or97k9-jnj256s-projects.vercel.app/api?username=Redem-cat&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Redem-cat's%20GitHub%20Stats" height="170px" />
+<img src="https://github-readme-stats-3o0or97k9-jnj256s-projects.vercel.app/api/top-langs/?username=Redem-cat&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter,Jupyter%20Notebook" height="170px" />
 </div>
 
 
